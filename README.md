@@ -1,7 +1,7 @@
 # Установка
 
 ```bash
-$ composer require demonix/hello-people
+$ composer require dsotnikov/hw3
 ```
 
 # Использование
