@@ -1,0 +1,16 @@
+{
+  "name": "dsotnikov/hw3",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Dsotnikov\\Hw3\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "sotnikov",
+      "email": "dmvb26@yandex.ru"
+    }
+  ],
+  "require": {}
+}
