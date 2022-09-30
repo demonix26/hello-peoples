@@ -12,5 +12,7 @@
       "email": "dmvb26@yandex.ru"
     }
   ],
-  "require": {}
+  "require": {
+    "php": ">=7.1"
+  }
 }
